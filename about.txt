@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>images</title>
+<style>
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+nav {text-align: center;}
+
+</style> 
+</head>
+<body style="background-color:black;">
+
+
+
+<div style="text-align: center;">
+<h1 style="color:white;">about me</h1><br>
+ <img src="https://64.media.tumblr.com/64e400defe362e2b7d45116dc564f149/e31fac09985474fd-c4/s540x810/dd17829bb674e954eecf3cd0558b41615af2e101.gifv" alt="awesome sauce" width="300" height="200"> 
+</div>
+
+<div style="text-align: center;">
+<p style="color:white;">this is my about me page <br> my name is nils, some people call me tabby. <br> I am 16 years old (09.14) <br> I am mainly into movies and music.. I also draw, <br> play games, and occasionally code. <br> <br> I will likely update this section a lot over time  </p>
+</div>
+
+
+<div style="text-align: center;">
+<p style ="color:white;"><b> INTERESTS </b></p>
+
+<p style ="color:white;"><b>movies/shows:</b> the batman, may, audition, cold fish, 
+<br> peep "tv" show, brand new cherry flavor, ritual (2000), <br> oldboy, ichi the killer
+
+<p style ="color:white;"><b>games:</b> elin, mass effect, resident evil, fear and hunger, <br>
+project zomboid, mabinogi, eso
+
+<p style ="color:white;"><b>music:</b> haunted mound, senketsuakochan, taxidermists, <br> gods wisdom, 
+gvcci-hvcci, the mad capsule markets <br> glamscure, wifiskeleton, thai body dump
+
+<p style ="color:white;"><b>etc:</b> drawing, dolls, collecting stuff <br> writing (kinda), burning cds
+<br> <br>
+</div>
+
+<div style="text-align: center;">
+ <img src="https://64.media.tumblr.com/d6c85d1296614f242c4ce56237394dec/7ee4fc261a9d7585-6f/s250x400/9ef6e8491e7a6e4d4e042c51b5325d898c800c22.gifv" alt="awesome sauce" width="60" height="30">
+</div>
+
+<br>
+
+<div style="text-align: center;">
+ <img src="https://a.ltrbxd.com/resized/film-poster/2/5/5/8/8/25588-ritual-0-1000-0-1500-crop.jpg?v=b1f4c28e2e" alt="mspaint" width="150" height="200">  
+<img src="https://m.media-amazon.com/images/M/MV5BMTg4Mjc0NTE5Nl5BMl5BanBnXkFtZTcwNTA3ODEzMQ@@._V1_.jpg" alt="haunted mound" width="150" height="200">
+<img src="https://a.ltrbxd.com/resized/sm/upload/4c/00/5v/3l/xLblSyhe4qSbYM5vGLC6yCn332E-0-1000-0-1500-crop.jpg?v=153e71c706" alt="rainbow bridge" width="150" height="200">
+</div>
+
+<div style="text-align: center;">
+ <img src="https://a.ltrbxd.com/resized/film-poster/4/5/7/9/8/45798-may-0-1000-0-1500-crop.jpg?v=206f23e0f9" alt="car seat headrest" width="150" height="200">  
+<img src="https://a.ltrbxd.com/resized/film-poster/4/6/9/0/8/46908-ichi-the-killer-0-1000-0-1500-crop.jpg?v=05cf96b1d5" alt="i think in html tags" width="150" height="200">
+</div>
+
+<br>
+
+ <nav>
+    <a class="nav-link" href="/">go home</a>
+</nav> 
+
+</body>
+</html>

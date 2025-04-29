@@ -1,0 +1,91 @@
+-<!DOCTYPE html>
+<html>
+<head>
+<title>homepage</title>
+<style>
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h1 {text-align: center;}
+p {text-align: center;}
+href {text-align: center;}
+nav {text-align: center;}
+audio {text-align: center;}
+
+
+</style> 
+
+</head>
+<body style="background-color:black;">
+
+ <nav>
+    <a class="nav-link" href="/">HOME</a>
+    <a class="nav-link" href="/about">ABOUT ME</a>
+    <a class="nav-link" href="/images">IMAGES</a>
+</nav> 
+
+<h1 style="color:white;">welcome 2 my webpage</h1>
+
+<div style="text-align: center;">
+<img src="https://i.ytimg.com/vi/1N_3WcNAPFM/sddefault.jpg" alt="peep tv show" style="width:440px;height:280px;"> 
+</div>
+
+<p style="color:white;"> i am Nils (he/it) <br>
+this website is just a fun side project <br>
+i will try and update this regularly if i remember to </p>
+
+<marquee behavior="scroll" direction="right" style="color:white;">last updated: 4/28/25</marquee>
+<br> <br>
+
+<div style="text-align: center;">
+<audio controls>
+  <source src="restart.mp3" type="audio/mpeg">
+</audio>
+</div>
+<br>
+
+<font size=5>
+
+<div style="text-align: center;">
+
+
+<a href="https://x.com/castasigil">twitter /</a>
+
+
+<a href="https://letterboxd.com/hopeincarnate/">letterboxd /</a>
+
+
+<a href="https://www.last.fm/user/hopeincarnate">lastfm</a>
+
+</div>
+
+
+
+
+<font size=3>
+
+<p style ="color:white"> if you want to contact me -> castasigil on discord </p>
+
+</body>
+</html>
